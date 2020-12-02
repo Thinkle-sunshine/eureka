@@ -1,4 +1,4 @@
-package com.wls.test;
+package com.wls;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

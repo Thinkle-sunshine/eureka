@@ -1,4 +1,4 @@
-package com.wls.test;
+package com.wls;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
