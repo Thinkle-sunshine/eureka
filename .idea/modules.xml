@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/eureka.iml" filepath="$PROJECT_DIR$/.idea/eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongo/mongo.iml" filepath="$PROJECT_DIR$/mongo/mongo.iml" />
     </modules>
   </component>
 </project>

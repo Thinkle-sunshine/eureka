@@ -8,6 +8,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/eureka" />
+    <file type="web" url="file://$PROJECT_DIR$/mongo" />
     <file type="web" url="file://$PROJECT_DIR$/test" />
   </component>
   <component name="JavaScriptSettings">
@@ -16,7 +17,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/test/pom.xml" />
+        <option value="$PROJECT_DIR$/mongo/pom.xml" />
       </list>
     </option>
   </component>
